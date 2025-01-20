@@ -1,0 +1,203 @@
+[
+    {
+      "question_number": 191,
+      "question": {
+        "en": "What nerve is being affected that gives sensation to the client’s pinky and ring finger?",
+        "zh": "哪个神经受到影响，导致客户的小指和无名指有感觉？"
+      },
+      "options": {
+        "en": ["Median", "Ulnar", "Radial", "Musculotaneous"],
+        "zh": ["正中神经", "尺神经", "桡神经", "肌皮神经"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The ulnar nerve runs along the ulna and into the pinky finger and medial half of the ring finger.",
+        "zh": "尺神经沿尺骨延伸到小指和无名指的内侧半部分。"
+      }
+    },
+    {
+      "question_number": 192,
+      "question": {
+        "en": "At which point during a massage/bodywork session would a therapist ask about an occurrence relating to a physical complaint or injury?",
+        "zh": "在按摩/身体工作过程中，治疗师何时会询问与身体抱怨或损伤相关的情况？"
+      },
+      "options": {
+        "en": ["Intake", "Treatment plan", "Treatment", "Closing"],
+        "zh": ["记录阶段", "治疗计划", "治疗阶段", "结束阶段"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The time to collect information about a physical complaint or injury is during the intake process.",
+        "zh": "收集有关身体抱怨或损伤信息的时间是在记录阶段。"
+      }
+    },
+    {
+      "question_number": 193,
+      "question": {
+        "en": "The prefix nephro- refers to:",
+        "zh": "前缀 nephro- 指的是："
+      },
+      "options": {
+        "en": ["Nerve", "Infant", "Kidney", "Brain"],
+        "zh": ["神经", "婴儿", "肾脏", "大脑"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Nephro and nephr both refer to the kidneys.",
+        "zh": "Nephro 和 nephr 都指肾脏。"
+      }
+    },
+    {
+      "question_number": 194,
+      "question": {
+        "en": "The suffix -crine refers to:",
+        "zh": "后缀 -crine 指的是："
+      },
+      "options": {
+        "en": ["Secretions", "Inflammation", "Digestion", "Enzymes"],
+        "zh": ["分泌", "炎症", "消化", "酶"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The suffix -crine refers to secretions, such as in the endocrine gland.",
+        "zh": "后缀 -crine 指分泌，例如内分泌腺。"
+      }
+    },
+    {
+      "question_number": 195,
+      "question": {
+        "en": "Choose the correct definition of the anatomical term “linea“.",
+        "zh": "选择解剖术语“linea”的正确定义。"
+      },
+      "options": {
+        "en": [
+          "A passage or canal",
+          "A line or long ridge",
+          "A hole or opening",
+          "A meeting point of two or more bones"
+        ],
+        "zh": [
+          "通道或管道",
+          "一条线或长脊",
+          "孔或开口",
+          "两块或更多骨骼的交点"
+        ]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Linea refers to a line or long ridge, such as the linea aspera on the femur.",
+        "zh": "Linea 指一条线或长脊，例如股骨上的粗线。"
+      }
+    },
+    {
+      "question_number": 196,
+      "question": {
+        "en": "Which of the following regulates the development of reproductive processes within the body?",
+        "zh": "以下哪项调节体内生殖过程的发育？"
+      },
+      "options": {
+        "en": ["HRT", "ADH", "Insulin", "FSH"],
+        "zh": ["激素替代疗法 (HRT)", "抗利尿激素 (ADH)", "胰岛素", "促卵泡激素 (FSH)"]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "FSH regulates reproductive processes, including development and maturation.",
+        "zh": "促卵泡激素 (FSH) 调节生殖过程，包括发育和成熟。"
+      }
+    },
+    {
+      "question_number": 197,
+      "question": {
+        "en": "Assisting your client with a concentric contraction of an antagonist to trigger the CNS to send a message to relax the agonist is a neural phenomenon called _______________.",
+        "zh": "通过协助客户的拮抗肌做向心收缩来触发中枢神经系统发送信号以放松主动肌的神经现象被称为 _______________。"
+      },
+      "options": {
+        "en": [
+          "Neurofibromatosis",
+          "Reciprocal inhibition",
+          "Contralateral flexion",
+          "Action potentials"
+        ],
+        "zh": [
+          "神经纤维瘤病",
+          "交互抑制",
+          "对侧弯曲",
+          "动作电位"
+        ]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Reciprocal inhibition relaxes a muscle by contracting its antagonist.",
+        "zh": "交互抑制通过收缩拮抗肌来放松主动肌。"
+      }
+    },
+    {
+      "question_number": 198,
+      "question": {
+        "en": "A trigger point that is painful at rest, and painful during active and passive movement, is _______________.",
+        "zh": "一个在静止状态和主动及被动运动中都疼痛的触发点是 _______________。"
+      },
+      "options": {
+        "en": [
+          "An active trigger point",
+          "A primary trigger point",
+          "A secondary trigger point",
+          "A latent trigger point"
+        ],
+        "zh": [
+          "活动触发点",
+          "原发触发点",
+          "继发触发点",
+          "潜在触发点"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "An active trigger point causes pain at all times, even at rest.",
+        "zh": "活动触发点在任何时候都会引起疼痛，即使在静止时也是如此。"
+      }
+    },
+    {
+      "question_number": 199,
+      "question": {
+        "en": "A therapist must recognize ____________ when assessing and treating soft tissue conditions.",
+        "zh": "在评估和治疗软组织情况时，治疗师必须识别 ____________。"
+      },
+      "options": {
+        "en": [
+          "Changes in skin coloration",
+          "Soft tissue barriers",
+          "Breathing patterns",
+          "The lifestyle of a client"
+        ],
+        "zh": [
+          "皮肤颜色的变化",
+          "软组织屏障",
+          "呼吸模式",
+          "客户的生活方式"
+        ]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Soft tissue barriers indicate the limits of manipulation for effective treatment.",
+        "zh": "软组织屏障表明有效治疗的操作极限。"
+      }
+    },
+    {
+      "question_number": 200,
+      "question": {
+        "en": "The mesencephalon is also known as the _______________.",
+        "zh": "中脑也被称为 _______________。"
+      },
+      "options": {
+        "en": ["Forebrain", "Midbrain", "Hindbrain", "Brainstem"],
+        "zh": ["前脑", "中脑", "后脑", "脑干"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The mesencephalon, or midbrain, is associated with functions like vision and motor control.",
+        "zh": "中脑与视觉和运动控制等功能相关。"
+      }
+    }
+  ]
+  

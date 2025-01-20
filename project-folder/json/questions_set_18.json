@@ -1,0 +1,183 @@
+[
+    {
+      "question_number": 171,
+      "question": {
+        "en": "A client who is prone to attack posturing will have an overproduction of which neuroendocrine chemical?",
+        "zh": "倾向于攻击姿态的客户会过度分泌哪种神经内分泌化学物质？"
+      },
+      "options": {
+        "en": ["Epinephrine", "Serotonin", "Oxytocin", "Enkephalins"],
+        "zh": ["肾上腺素", "血清素", "催产素", "脑啡肽"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Epinephrine triggers the fight-or-flight response and physical signs of attack posturing.",
+        "zh": "肾上腺素触发战斗或逃跑反应以及攻击姿态的身体表现。"
+      }
+    },
+    {
+      "question_number": 172,
+      "question": {
+        "en": "Humans are considered to have an open circulation system.",
+        "zh": "人类被认为具有开放式循环系统。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Humans have a closed circulatory system where blood is confined within vessels.",
+        "zh": "人类拥有闭合式循环系统，血液限制在血管内流动。"
+      }
+    },
+    {
+      "question_number": 173,
+      "question": {
+        "en": "What is the function of a bulboid corpuscle?",
+        "zh": "球状小体的功能是什么？"
+      },
+      "options": {
+        "en": [
+          "Detect changes in temperature",
+          "Receptor which responds to pressure",
+          "Contract to stand hairs straight along body",
+          "Mucous membranes in the skin"
+        ],
+        "zh": [
+          "检测温度变化",
+          "响应压力的感受器",
+          "收缩以使体毛竖立",
+          "皮肤中的粘膜"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Bulboid corpuscles are thermo-receptors that detect temperature changes.",
+        "zh": "球状小体是检测温度变化的温度感受器。"
+      }
+    },
+    {
+      "question_number": 174,
+      "question": {
+        "en": "What is known as the “molecular unit of currency”?",
+        "zh": "被称为“分子货币单位”的是什么？"
+      },
+      "options": {
+        "en": ["Actin", "ATP", "T cells", "Gamma globulins"],
+        "zh": ["肌动蛋白", "三磷酸腺苷 (ATP)", "T 细胞", "γ 球蛋白"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "ATP is often described as the molecular unit of currency for energy transfer in cells.",
+        "zh": "ATP 通常被描述为细胞内能量传递的分子货币单位。"
+      }
+    },
+    {
+      "question_number": 175,
+      "question": {
+        "en": "Which best describes auscultation?",
+        "zh": "以下哪项最好描述听诊？"
+      },
+      "options": {
+        "en": ["Watching", "Listening", "Palpating", "Concluding"],
+        "zh": ["观察", "聆听", "触诊", "总结"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Auscultation refers to listening, often with a stethoscope, to assess internal sounds in the body.",
+        "zh": "听诊是指通过听诊器聆听身体内部声音以进行评估。"
+      }
+    },
+    {
+      "question_number": 176,
+      "question": {
+        "en": "Hacking, tapping and pounding with loose fists are examples of _______________.",
+        "zh": "用松拳进行劈砍、轻叩和捶打是 _______________ 的例子。"
+      },
+      "options": {
+        "en": ["Petrissage", "Deep tissue", "Effleurage", "Tapotement"],
+        "zh": ["揉捏法", "深层组织按摩", "轻抚法", "轻叩法"]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "These techniques are part of tapotement massage methods.",
+        "zh": "这些技术是轻叩法按摩方法的一部分。"
+      }
+    },
+    {
+      "question_number": 177,
+      "question": {
+        "en": "A client was involved in a recent auto accident and received a grade 4 whiplash injury. Which of the following best describes the client’s status?",
+        "zh": "一位客户最近因车祸受到 4 级颈椎过度屈伸损伤。以下哪项最好描述客户的状况？"
+      },
+      "options": {
+        "en": [
+          "Neck pain, stiffness and tenderness",
+          "Neck pain with signs of neurological damage",
+          "Neck pain with dislocation and spinal injury",
+          "No neck pain"
+        ],
+        "zh": [
+          "颈部疼痛、僵硬和压痛",
+          "颈部疼痛伴有神经损伤迹象",
+          "颈部疼痛伴有脱位和脊柱损伤",
+          "没有颈部疼痛"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Grade 4 whiplash involves severe neck pain, dislocations, and possible spinal injuries.",
+        "zh": "4 级颈椎过度屈伸损伤包括严重颈部疼痛、脱位以及可能的脊柱损伤。"
+      }
+    },
+    {
+      "question_number": 178,
+      "question": {
+        "en": "Where are the lumbrical muscles located?",
+        "zh": "蚓状肌位于哪里？"
+      },
+      "options": {
+        "en": ["Lumbar region", "Hands and feet", "Pelvic floor", "Neck"],
+        "zh": ["腰部区域", "手和脚", "骨盆底", "颈部"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Lumbrical muscles are located in the hands and feet, assisting with movement of the phalanges.",
+        "zh": "蚓状肌位于手和脚，协助指骨的运动。"
+      }
+    },
+    {
+      "question_number": 179,
+      "question": {
+        "en": "What is another term for nerve impulses?",
+        "zh": "神经冲动的另一个术语是什么？"
+      },
+      "options": {
+        "en": ["Instinct", "Action potentials", "Interneurons", "Synapse"],
+        "zh": ["本能", "动作电位", "中间神经元", "突触"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Nerve impulses, also called action potentials, are electrical currents that travel along nerves.",
+        "zh": "神经冲动，也称为动作电位，是沿着神经传播的电流。"
+      }
+    },
+    {
+      "question_number": 180,
+      "question": {
+        "en": "Which test would you use to assess a nerve compression between the clavicle and first rib?",
+        "zh": "您将使用哪种测试来评估锁骨和第一肋骨之间的神经压迫？"
+      },
+      "options": {
+        "en": ["Adson's test", "Costoclavicular test", "Phalen's test", "Tinel's sign"],
+        "zh": ["Adson 测试", "锁骨肋骨测试", "Phalen 测试", "Tinel 征"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The costoclavicular test evaluates brachial plexus compression, also known as the military position test.",
+        "zh": "锁骨肋骨测试用于评估臂丛压迫，也称为军人姿势测试。"
+      }
+    }
+  ]
+  

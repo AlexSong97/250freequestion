@@ -1,0 +1,183 @@
+[
+    {
+      "question_number": 51,
+      "question": {
+        "en": "The circadian rhythm is a biological clock that resets every 12 hours.",
+        "zh": "昼夜节律是一种每 12 小时重置一次的生物钟。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The circadian rhythm describes biological processes governed by external factors like light and darkness, resetting approximately every 24 hours.",
+        "zh": "昼夜节律描述了由光暗等外部因素控制的生物过程，大约每 24 小时重置一次。"
+      }
+    },
+    {
+      "question_number": 52,
+      "question": {
+        "en": "Which is an example of a triangular muscle?",
+        "zh": "以下哪一项是三角形肌肉的例子？"
+      },
+      "options": {
+        "en": ["Frontalis", "Deltoid", "Soleus", "Masseter"],
+        "zh": ["额肌", "三角肌", "比目鱼肌", "咬肌"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The deltoid muscle is a triangular muscle, as indicated by its name.",
+        "zh": "三角肌是一块三角形肌肉，其名称就表明了这一点。"
+      }
+    },
+    {
+      "question_number": 53,
+      "question": {
+        "en": "While doing an assessment of hip flexion, requesting your client to flex their hip is an example of _______________ range of motion testing.",
+        "zh": "在进行髋关节屈曲评估时，请求客户屈曲髋关节是 _______________ 活动范围测试的一个例子。"
+      },
+      "options": {
+        "en": ["Active", "Passive", "Isometric", "Eccentric"],
+        "zh": ["主动", "被动", "等长", "离心"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Testing range of motion while the client moves under their own power is an active range of motion test.",
+        "zh": "当客户自行移动时测试活动范围称为主动活动范围测试。"
+      }
+    },
+    {
+      "question_number": 54,
+      "question": {
+        "en": "A hip joint that feels restricted and lacking in movement is considered hypermobile.",
+        "zh": "一个感到受限且缺乏运动的髋关节被认为是过度活动的。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "A joint that feels restricted and lacking in movement is hypomobile, while a joint that is lax and loose is hypermobile.",
+        "zh": "一个感到受限且缺乏运动的关节是低活动的，而松弛和松散的关节是过度活动的。"
+      }
+    },
+    {
+      "question_number": 55,
+      "question": {
+        "en": "The dynamics between a client and a massage professional are complex, which creates an immediate _______________.",
+        "zh": "客户与按摩专业人士之间的动态是复杂的，这会立即导致 _______________。"
+      },
+      "options": {
+        "en": ["Friendship", "Relationship", "Power imbalance", "Power equality"],
+        "zh": ["友谊", "关系", "权力不平衡", "权力平等"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Power imbalances occur naturally when one person is perceived as an authority over another in certain situations.",
+        "zh": "当一个人在某些情况下被认为比另一个人更有权威时，自然会出现权力不平衡。"
+      }
+    },
+    {
+      "question_number": 56,
+      "question": {
+        "en": "Pulmonary circulation distributes blood, nutrients and gases throughout the body.",
+        "zh": "肺循环将血液、营养物质和气体分布到全身。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Pulmonary circulation moves blood between the heart and lungs for oxygenation, while systemic circulation distributes it throughout the body.",
+        "zh": "肺循环在心脏和肺之间移动血液进行氧合，而全身循环将其分布到全身。"
+      }
+    },
+    {
+      "question_number": 57,
+      "question": {
+        "en": "Where would you locate stratum lucidum?",
+        "zh": "你会在哪里找到透明层（stratum lucidum）？"
+      },
+      "options": {
+        "en": ["Heart", "Muscle", "Skin", "Bone"],
+        "zh": ["心脏", "肌肉", "皮肤", "骨头"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Stratum lucidum is found in the skin, specifically on the palms and soles, between the stratum granulosum and stratum corneum.",
+        "zh": "透明层存在于皮肤中，特别是在手掌和脚掌之间，位于颗粒层和角质层之间。"
+      }
+    },
+    {
+      "question_number": 58,
+      "question": {
+        "en": "What does a visual assessment help determine?",
+        "zh": "视觉评估有助于确定什么？"
+      },
+      "options": {
+        "en": [
+          "Neurological dysfunctions",
+          "Soft tissue injuries",
+          "Muscular and structural symmetry and deviations",
+          "Painful movement patterns"
+        ],
+        "zh": [
+          "神经功能障碍",
+          "软组织损伤",
+          "肌肉和结构对称性及偏差",
+          "疼痛的运动模式"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "A visual assessment determines muscular and structural symmetry or deviations, aiding in treatment planning.",
+        "zh": "视觉评估确定肌肉和结构的对称性或偏差，有助于制定治疗计划。"
+      }
+    },
+    {
+      "question_number": 59,
+      "question": {
+        "en": "Which best describes a therapist who routinely drapes clients in an unprofessional manner?",
+        "zh": "以下哪项最能描述经常以不专业方式覆盖客户的治疗师？"
+      },
+      "options": {
+        "en": [
+          "The massage therapist needs additional training.",
+          "The massage therapist is participating in a dual relationship.",
+          "The massage therapist's scope of practice needs to be redefined.",
+          "The massage therapist has broken a code of ethics."
+        ],
+        "zh": [
+          "按摩治疗师需要额外培训。",
+          "按摩治疗师参与了双重关系。",
+          "按摩治疗师的执业范围需要重新定义。",
+          "按摩治疗师违反了道德准则。"
+        ]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "Routinely draping clients unprofessionally breaks the code of ethics for massage therapists.",
+        "zh": "经常以不专业方式覆盖客户违反了按摩治疗师的道德准则。"
+      }
+    },
+    {
+      "question_number": 60,
+      "question": {
+        "en": "What best describes the guidance a massage therapist follows for establishing their practice?",
+        "zh": "以下哪项最好描述按摩治疗师在建立其实践时所遵循的指导？"
+      },
+      "options": {
+        "en": ["Confidentiality", "Framework", "Professional boundaries", "Personal boundaries"],
+        "zh": ["保密性", "框架", "专业界限", "个人界限"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "A framework encompasses the values, vision, and guidelines for creating a professional massage practice.",
+        "zh": "框架包含了创建专业按摩实践的价值观、愿景和指南。"
+      }
+    }
+  ]
+  

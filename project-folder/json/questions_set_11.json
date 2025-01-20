@@ -1,0 +1,193 @@
+[
+    {
+      "question_number": 101,
+      "question": {
+        "en": "Where are cubital lymph nodes located?",
+        "zh": "肘窝淋巴结位于哪里？"
+      },
+      "options": {
+        "en": ["Knees", "Thoracic cavity", "Neck", "Elbow"],
+        "zh": ["膝盖", "胸腔", "颈部", "肘部"]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "Cubital refers to the elbow, as seen in terms like cubital fossa and cubital tunnel.",
+        "zh": "“Cubital” 指的是肘部，例如肘窝和肘管等解剖术语。"
+      }
+    },
+    {
+      "question_number": 102,
+      "question": {
+        "en": "Which condition would include an issue with the flexor carpi radialis muscle?",
+        "zh": "以下哪种情况会涉及桡侧腕屈肌的问题？"
+      },
+      "options": {
+        "en": [
+          "Medial epicondylitis",
+          "Thoracic outlet syndrome",
+          "Lateral epicondylitis",
+          "Cubital tunnel syndrome"
+        ],
+        "zh": [
+          "内上髁炎",
+          "胸廓出口综合症",
+          "外上髁炎",
+          "肘管综合症"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Medial epicondylitis, also known as golfer’s elbow, involves the flexor muscle group of the forearm.",
+        "zh": "内上髁炎（也称高尔夫球肘）涉及前臂的屈肌群。"
+      }
+    },
+    {
+      "question_number": 103,
+      "question": {
+        "en": "What is the automatic muscle contraction that regulates skeletal muscle length when a client regains their balance after losing it?",
+        "zh": "当客户恢复平衡时，调节骨骼肌长度的自动肌肉收缩被称为什么？"
+      },
+      "options": {
+        "en": ["Reciprocal inhibition", "Ipsilateral flexion", "Muscle memory", "Stretch reflex"],
+        "zh": ["交互抑制", "同侧屈曲", "肌肉记忆", "牵张反射"]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "The stretch reflex is an automatic contraction in response to muscle fiber stretching, helping regain balance.",
+        "zh": "牵张反射是肌纤维拉伸时的一种自动收缩，有助于恢复平衡。"
+      }
+    },
+    {
+      "question_number": 104,
+      "question": {
+        "en": "What is meant by muscle flaccidity?",
+        "zh": "肌肉松弛指的是什么？"
+      },
+      "options": {
+        "en": ["Strength", "Size", "Flexibility", "Weakness"],
+        "zh": ["力量", "大小", "灵活性", "无力"]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "Muscle flaccidity refers to muscle weakness.",
+        "zh": "肌肉松弛指的是肌肉无力。"
+      }
+    },
+    {
+      "question_number": 105,
+      "question": {
+        "en": "A regular client shares emotional details about their divorce and begins testing boundaries. What does this indicate?",
+        "zh": "一个老客户分享关于离婚的情感细节并开始测试界限，这表明什么？"
+      },
+      "options": {
+        "en": [
+          "The client is learning to be responsible.",
+          "Everything is okay; the client will recover eventually.",
+          "The client is testing the boundaries of the therapeutic relationship.",
+          "The client is allowed special treatment due to tough times."
+        ],
+        "zh": [
+          "客户正在学习负责任。",
+          "一切都很好；客户最终会康复。",
+          "客户正在测试治疗关系的界限。",
+          "由于困难时期，客户被允许享受特殊待遇。"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Clients who push boundaries test what is acceptable; it’s the therapist’s responsibility to maintain clear boundaries.",
+        "zh": "推动界限的客户是在测试什么是可以接受的；维护明确界限是治疗师的责任。"
+      }
+    },
+    {
+      "question_number": 106,
+      "question": {
+        "en": "Which muscle attaches to the zygomatic arch?",
+        "zh": "哪块肌肉附着于颧弓？"
+      },
+      "options": {
+        "en": ["Masseter", "Temporalis", "Piriformis", "Iliacus"],
+        "zh": ["咬肌", "颞肌", "梨状肌", "髂肌"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The masseter muscle originates from the zygomatic arch.",
+        "zh": "咬肌起于颧弓。"
+      }
+    },
+    {
+      "question_number": 107,
+      "question": {
+        "en": "Which nerve passes through the flexor retinaculum of the hand?",
+        "zh": "哪条神经穿过手的屈肌支持带？"
+      },
+      "options": {
+        "en": ["Trigeminal", "Median", "Radial", "Sciatic"],
+        "zh": ["三叉神经", "正中神经", "桡神经", "坐骨神经"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The median nerve passes through the flexor retinaculum.",
+        "zh": "正中神经穿过屈肌支持带。"
+      }
+    },
+    {
+      "question_number": 108,
+      "question": {
+        "en": "How many arches are in a normal human foot?",
+        "zh": "正常人类足部有多少个足弓？"
+      },
+      "options": {
+        "en": ["1", "2", "3", "4"],
+        "zh": ["1", "2", "3", "4"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "There are three arches: medial longitudinal, lateral longitudinal, and transverse.",
+        "zh": "足部有三个足弓：内侧纵弓、外侧纵弓和横弓。"
+      }
+    },
+    {
+      "question_number": 109,
+      "question": {
+        "en": "A client complains of deep thigh pain, fever, and swelling. What should the therapist do?",
+        "zh": "客户抱怨大腿深部疼痛、发烧和肿胀。治疗师应该怎么做？"
+      },
+      "options": {
+        "en": [
+          "Massage client and suggest an NSAID",
+          "Massage client and instruct to seek medical attention soon",
+          "Cancel appointment and send them home",
+          "Cancel appointment and have the client seek immediate medical attention"
+        ],
+        "zh": [
+          "为客户按摩并建议使用非甾体抗炎药",
+          "为客户按摩并指导其尽快就医",
+          "取消预约并让客户回家",
+          "取消预约并让客户立即就医"
+        ]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "Massage is contraindicated for fever and inflamed tissue. Immediate medical attention is needed.",
+        "zh": "发烧和组织炎症是按摩的禁忌症，需要立即就医。"
+      }
+    },
+    {
+      "question_number": 110,
+      "question": {
+        "en": "Quick, shallow breaths are an indication of forced inhalation. Which muscles would be hypertonic?",
+        "zh": "快速、浅表的呼吸表明强迫吸气。哪些肌肉会出现高张力？"
+      },
+      "options": {
+        "en": ["Rhomboids", "Scalenes", "Abdominals", "Diaphragm"],
+        "zh": ["菱形肌", "斜角肌", "腹肌", "膈肌"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Scalenes are activated in faulty breathing patterns, leading to hypertonicity and trigger points.",
+        "zh": "斜角肌在错误的呼吸模式中被激活，导致高张力和触发点的形成。"
+      }
+    }
+  ]
+  

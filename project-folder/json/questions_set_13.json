@@ -1,0 +1,203 @@
+[
+    {
+      "question_number": 121,
+      "question": {
+        "en": "What occurs in the first phase of an acute inflammation?",
+        "zh": "急性炎症的第一阶段会发生什么？"
+      },
+      "options": {
+        "en": ["Vasoconstriction", "Chemotaxis", "Vasodilation", "Edema"],
+        "zh": ["血管收缩", "趋化作用", "血管扩张", "水肿"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Vasodilation leads to increased blood flow, causing redness and heat in acute inflammation.",
+        "zh": "血管扩张导致血流增加，引起急性炎症的发红和发热。"
+      }
+    },
+    {
+      "question_number": 122,
+      "question": {
+        "en": "A client with cancer disagrees with a doctor's orders to avoid massage. What should the therapist do?",
+        "zh": "一位癌症患者不同意医生避免按摩的建议。治疗师应该怎么做？"
+      },
+      "options": {
+        "en": [
+          "Massage as normal using both light and deep pressure.",
+          "Massage as normal using only lighter massage techniques, e.g., Swedish.",
+          "Massage using only MLD.",
+          "No massage. Follow the orders of the medical doctor."
+        ],
+        "zh": [
+          "像往常一样使用轻压和深压进行按摩。",
+          "像往常一样仅使用轻柔的按摩技术，例如瑞典式按摩。",
+          "仅使用淋巴引流按摩。",
+          "不按摩。遵循医生的指示。"
+        ]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "A strict doctor's order to avoid massage should always be followed. Recommend a second opinion if the client insists.",
+        "zh": "医生明确指示避免按摩时应严格遵守。如果客户坚持，可以建议寻求第二意见。"
+      }
+    },
+    {
+      "question_number": 123,
+      "question": {
+        "en": "Which element is needed for muscle contraction?",
+        "zh": "肌肉收缩需要哪种元素？"
+      },
+      "options": {
+        "en": ["Calcium", "Nitrogen", "Magnesium", "Iron"],
+        "zh": ["钙", "氮", "镁", "铁"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Calcium ions trigger muscle contraction at the neuromuscular junction.",
+        "zh": "钙离子在神经肌肉接头处触发肌肉收缩。"
+      }
+    },
+    {
+      "question_number": 124,
+      "question": {
+        "en": "Which muscle attaches to the acromion process?",
+        "zh": "哪块肌肉附着于肩峰突？"
+      },
+      "options": {
+        "en": ["Trapezius", "Pec minor", "Short head of the biceps brachii", "Supraspinatis"],
+        "zh": ["斜方肌", "胸小肌", "肱二头肌短头", "冈上肌"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The middle fibers of the trapezius insert into the medial margin of the acromion process.",
+        "zh": "斜方肌的中间纤维插入肩峰突的内缘。"
+      }
+    },
+    {
+      "question_number": 125,
+      "question": {
+        "en": "The ulna rotates around the radius.",
+        "zh": "尺骨绕桡骨旋转。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The ulna remains stationary during wrist rotation.",
+        "zh": "在手腕旋转过程中，尺骨保持静止。"
+      }
+    },
+    {
+      "question_number": 126,
+      "question": {
+        "en": "Which two tendons comprise the anatomical snuff box?",
+        "zh": "解剖鼻烟窝由哪两条肌腱组成？"
+      },
+      "options": {
+        "en": [
+          "Extensor pollicus longus and extensor pollicus brevis",
+          "Extensor carpi ulnaris and flexor digitorum longus",
+          "Extensor digiti minimi and flexor carpia radial",
+          "Extensor digitorum and extensor retinaculum"
+        ],
+        "zh": [
+          "拇长伸肌和拇短伸肌",
+          "尺侧腕伸肌和指屈肌长肌",
+          "小指伸肌和桡侧腕屈肌",
+          "指伸肌和伸肌支持带"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The anatomical snuff box is formed by the tendons of the extensor pollicus longus and extensor pollicus brevis.",
+        "zh": "解剖鼻烟窝由拇长伸肌和拇短伸肌的肌腱形成。"
+      }
+    },
+    {
+      "question_number": 127,
+      "question": {
+        "en": "Which condition is most likely present in a client with deep thigh pain, fever, and swelling?",
+        "zh": "出现大腿深部疼痛、发烧和肿胀的客户最可能患有哪种疾病？"
+      },
+      "options": {
+        "en": ["Bursitis", "Myositis", "Osteomyelitis", "Fibromyalgia"],
+        "zh": ["滑囊炎", "肌炎", "骨髓炎", "纤维肌痛"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Deep pain on the bone with symptoms of infection suggests osteomyelitis.",
+        "zh": "骨深处的疼痛伴有感染症状提示骨髓炎。"
+      }
+    },
+    {
+      "question_number": 128,
+      "question": {
+        "en": "Lateral epicondylitis affects the outside of the knee joint.",
+        "zh": "外上髁炎影响膝关节外侧。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Lateral epicondylitis is the technical term for tennis elbow, which affects the elbow, not the knee.",
+        "zh": "外上髁炎是网球肘的技术术语，影响的是肘关节而不是膝关节。"
+      }
+    },
+    {
+      "question_number": 129,
+      "question": {
+        "en": "All of the following are effects of aging on the skin EXCEPT:",
+        "zh": "以下哪些是衰老对皮肤的影响，除了："
+      },
+      "options": {
+        "en": [
+          "Decrease in number of hair follicles",
+          "Thinner epidermis layer",
+          "Fewer melanocytes",
+          "Increased sweat gland activity"
+        ],
+        "zh": [
+          "毛囊数量减少",
+          "表皮层变薄",
+          "黑色素细胞减少",
+          "汗腺活动增加"
+        ]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "Sweat gland activity decreases with age, along with thinning skin and reduced hair follicles.",
+        "zh": "随着年龄增长，汗腺活动减少，皮肤变薄，毛囊减少。"
+      }
+    },
+    {
+      "question_number": 130,
+      "question": {
+        "en": "Which of the following is an appropriate disclosure by a massage therapist to a client?",
+        "zh": "以下哪项是按摩治疗师对客户的适当披露？"
+      },
+      "options": {
+        "en": [
+          "Relationship difficulties",
+          "Sharing information about a mutual friend",
+          "Coming down with a cold",
+          "Business concerns and financial woes"
+        ],
+        "zh": [
+          "关系问题",
+          "分享有关共同朋友的信息",
+          "感冒",
+          "商业问题和财务困境"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Disclosing a cold directly affects the client within the therapeutic environment.",
+        "zh": "披露感冒直接影响治疗环境中的客户。"
+      }
+    }
+  ]
+  

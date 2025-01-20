@@ -1,0 +1,188 @@
+[
+    {
+      "question_number": 21,
+      "question": {
+        "en": "Carbohydrate digestion mostly occurs at which point in the digestive tract?",
+        "zh": "碳水化合物的消化主要发生在消化道的哪个部位？"
+      },
+      "options": {
+        "en": ["Mouth", "Stomach", "Small intestine", "Large intestine"],
+        "zh": ["口腔", "胃", "小肠", "大肠"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Carbohydrate digestions occurs mainly in the small intestine where the pancreatic digestive enzyme amylase converts starches into maltose which is then converted to glucose by the enzyme maltase.",
+        "zh": "碳水化合物的消化主要发生在小肠，胰酶淀粉酶将淀粉转化为麦芽糖，然后由麦芽糖酶转化为葡萄糖。"
+      }
+    },
+    {
+      "question_number": 22,
+      "question": {
+        "en": "Neutrophils, basophils and eosinophils are types of __________________.",
+        "zh": "中性粒细胞、嗜碱性粒细胞和嗜酸性粒细胞属于哪种类型？"
+      },
+      "options": {
+        "en": ["Leukocytes", "Myocytes", "Pathogens", "Enzymes"],
+        "zh": ["白细胞", "肌细胞", "病原体", "酶"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Neutrophils, basophils and eosinophils are the three types of granular leukocytes (white blood cells) of the immune system which consume infectious diseases and foreign materials.",
+        "zh": "中性粒细胞、嗜碱性粒细胞和嗜酸性粒细胞是免疫系统的三种颗粒状白细胞，能吞噬传染性疾病和外来物质。"
+      }
+    },
+    {
+      "question_number": 23,
+      "question": {
+        "en": "A therapist may legally engage in sexual relations with a client if they:",
+        "zh": "如果满足以下条件，治疗师可以合法与客户发生性关系："
+      },
+      "options": {
+        "en": [
+          "Obtain written permission from a lawyer",
+          "Officially end the client/therapist relationship within a week before intercourse occurs",
+          "Maintained a sexual relationship prior to developing a client/therapist relationship",
+          "A therapist should never engage a client in intercourse"
+        ],
+        "zh": [
+          "获得律师的书面许可",
+          "在发生性关系前一周正式结束客户/治疗师关系",
+          "在建立客户/治疗师关系之前维持性关系",
+          "治疗师绝不应与客户发生性关系"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "There are laws, rules and regulations against developing a sexual relationship with a client. If a sexual relationship existed prior to the client/therapist relationship, then continued sexual interaction is allowable.",
+        "zh": "有法律、规则和规定禁止与客户发展性关系。如果在客户/治疗师关系之前已经存在性关系，则可以继续这种性互动。"
+      }
+    },
+    {
+      "question_number": 24,
+      "question": {
+        "en": "Which of the following would be a possible concern for a new client?",
+        "zh": "以下哪项可能是新客户的关注点？"
+      },
+      "options": {
+        "en": [
+          "A detailed and thorough intake",
+          "Low lighting in the treatment room",
+          "Soft music played throughout the office",
+          "Locked door for privacy"
+        ],
+        "zh": [
+          "详细而全面的问诊",
+          "治疗室的低照明",
+          "整个办公室播放柔和的音乐",
+          "为隐私而锁上的门"
+        ]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "A locked door can put the therapist at risk of being accused for entrapment of a client. If a door must be locked be sure to ask the client for permission.",
+        "zh": "锁门可能会使治疗师面临被指控诱捕客户的风险。如果必须锁门，请务必征得客户的许可。"
+      }
+    },
+    {
+      "question_number": 25,
+      "question": {
+        "en": "Which of the following muscles is a synergist for the biceps brachii?",
+        "zh": "以下哪块肌肉是肱二头肌的协同肌？"
+      },
+      "options": {
+        "en": ["Triceps", "Posterior deltoid", "Pec major", "Brachialis"],
+        "zh": ["肱三头肌", "后束三角肌", "胸大肌", "肱肌"]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "The synergist or assisting muscle to the biceps brachii is the brachialis muscle.",
+        "zh": "肱二头肌的协同肌或辅助肌是肱肌。"
+      }
+    },
+    {
+      "question_number": 26,
+      "question": {
+        "en": "Which system is also known as the excretory system?",
+        "zh": "哪个系统也被称为排泄系统？"
+      },
+      "options": {
+        "en": ["Integumentary", "Digestive", "Urinary", "Respiratory"],
+        "zh": ["皮肤系统", "消化系统", "泌尿系统", "呼吸系统"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "The purpose of the excretory system is to regulate the chemical composition of the body by removing metabolic waste and to monitor the proper amount of water, salts and nutrients.",
+        "zh": "排泄系统的目的是通过清除代谢废物来调节身体的化学成分，并监测适当的水、盐和营养物质的含量。"
+      }
+    },
+    {
+      "question_number": 27,
+      "question": {
+        "en": "How many bones comprise the shoulder girdle?",
+        "zh": "肩带由多少块骨骼组成？"
+      },
+      "options": {
+        "en": ["1", "2", "3", "4"],
+        "zh": ["1", "2", "3", "4"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "There are two bones that make the shoulder girdle - the clavicle and the scapula.",
+        "zh": "肩带由两块骨头组成——锁骨和肩胛骨。"
+      }
+    },
+    {
+      "question_number": 28,
+      "question": {
+        "en": "What is another term for kinesthesia?",
+        "zh": "动觉的另一个术语是什么？"
+      },
+      "options": {
+        "en": ["Proprioception", "Pain", "Mechanoreceptors", "Tetanus"],
+        "zh": ["本体感受", "疼痛", "机械感受器", "破伤风"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Kinesthesia is another term for proprioception, or the ability of a person to perceive their own movement.",
+        "zh": "动觉是本体感受的另一种术语，指一个人感知自己运动的能力。"
+      }
+    },
+    {
+      "question_number": 29,
+      "question": {
+        "en": "What is the technical name for the Adam’s Apple?",
+        "zh": "喉结的技术名称是什么？"
+      },
+      "options": {
+        "en": ["Hyoid bone", "Larangeal prominence", "Esophagus", "Zygomatic arch"],
+        "zh": ["舌骨", "喉结隆起", "食道", "颧弓"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The Adams Apple is a protrusion on the anterior portion of males. This protrusion is the larangeal prominence formed by an angular section of thyroid cartilage.",
+        "zh": "喉结是男性前部的一个隆起，由甲状软骨的角状部分形成的喉结隆起。"
+      }
+    },
+    {
+      "question_number": 30,
+      "question": {
+        "en": "What does a “z-line” refer to?",
+        "zh": "“z线”指的是什么？"
+      },
+      "options": {
+        "en": [
+          "A spinal disorder",
+          "Border of a sarcomere",
+          "A cardiology report",
+          "Type of bone fracture"
+        ],
+        "zh": ["脊柱疾病", "肌节的边界", "心脏病学报告", "骨折类型"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "A z-line is the dark band that separate sarcomeres and forms the borders where actin molecules within a muscle combine.",
+        "zh": "z线是分隔肌节的暗带，形成肌肉中肌动蛋白分子结合的边界。"
+      }
+    }
+  ]
+  

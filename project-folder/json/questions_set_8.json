@@ -1,0 +1,223 @@
+[
+    {
+      "question_number": 71,
+      "question": {
+        "en": "Your last client of the day asks to treat you to a few drinks. What is the correct response?",
+        "zh": "您当天的最后一位客户提出请您喝几杯。正确的回应是什么？"
+      },
+      "options": {
+        "en": [
+          "Suggest another time",
+          "Say “yes” as long as it is not too expensive",
+          "End your professional relationship with them",
+          "Decline the invitation in order to keep the relationship professional"
+        ],
+        "zh": [
+          "建议换个时间",
+          "说“可以”，只要不太贵",
+          "结束与客户的专业关系",
+          "拒绝邀请以保持专业关系"
+        ]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "Fraternizing with clients outside of the therapeutic environment risks creating a dual relationship.",
+        "zh": "在治疗环境之外与客户交往可能会导致双重关系的风险。"
+      }
+    },
+    {
+      "question_number": 72,
+      "question": {
+        "en": "Which of the following massage techniques should not be offered in a medical massage office?",
+        "zh": "以下哪种按摩技术不应在医疗按摩办公室中提供？"
+      },
+      "options": {
+        "en": ["Feldenkrais", "Tantric", "Neuromuscular", "Hellerwork"],
+        "zh": ["费登奎斯方法", "坦陀罗按摩", "神经肌肉按摩", "赫勒工作法"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Tantric massage is often associated with 'sexual healing' and is not within the code of ethics for the massage profession.",
+        "zh": "坦陀罗按摩通常与“性治疗”相关，不符合按摩行业的道德准则。"
+      }
+    },
+    {
+      "question_number": 73,
+      "question": {
+        "en": "What is the medical term for the shoulder joint?",
+        "zh": "肩关节的医学术语是什么？"
+      },
+      "options": {
+        "en": [
+          "Facet joint",
+          "Acromioclavicular joint",
+          "Glenohumeral joint",
+          "Humeroclavicular"
+        ],
+        "zh": [
+          "小面关节",
+          "肩锁关节",
+          "盂肱关节",
+          "肱锁关节"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "The shoulder joint is formed by the glenoid fossa of the scapula and the head of the humerus, called the glenohumeral joint.",
+        "zh": "肩关节由肩胛骨的盂窝和肱骨头形成，称为盂肱关节。"
+      }
+    },
+    {
+      "question_number": 74,
+      "question": {
+        "en": "With regard to range of motion testing, a hard end feel is typically a ____________ experience for a client.",
+        "zh": "关于活动范围测试，硬终点感觉对客户通常是 ____________ 的体验。"
+      },
+      "options": {
+        "en": ["Painless", "Slightly painful", "Moderately painful", "Very painful"],
+        "zh": ["无痛", "轻微疼痛", "中度疼痛", "剧烈疼痛"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A hard end feel occurs naturally at the end range of motion where bone meets bone, such as elbow extension, and is typically painless.",
+        "zh": "硬终点感觉自然发生在骨与骨相接的活动范围末端，例如肘关节伸展，通常无痛。"
+      }
+    },
+    {
+      "question_number": 75,
+      "question": {
+        "en": "The tendinoperiosteal junction is located between the muscle and tendon.",
+        "zh": "腱骨膜连接位于肌肉和肌腱之间。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The tendinoperiosteal junction is located between tendon and bone.",
+        "zh": "腱骨膜连接位于腱与骨之间。"
+      }
+    },
+    {
+      "question_number": 76,
+      "question": {
+        "en": "The musculotendinous junction is located between muscular tendon and bone.",
+        "zh": "肌腱连接位于肌肉腱和骨之间。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The musculotendinous junction is formed between the muscle and its respective tendon.",
+        "zh": "肌腱连接形成于肌肉与其对应的肌腱之间。"
+      }
+    },
+    {
+      "question_number": 77,
+      "question": {
+        "en": "Which muscle does the radial nerve innervate?",
+        "zh": "桡神经支配哪块肌肉？"
+      },
+      "options": {
+        "en": [
+          "Biceps femoris",
+          "Triceps",
+          "Flexor digitorum longus",
+          "Pectorals major"
+        ],
+        "zh": [
+          "股二头肌",
+          "肱三头肌",
+          "指屈肌长肌",
+          "胸大肌"
+        ]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The radial nerve innervates all muscles of the posterior arm, including the triceps.",
+        "zh": "桡神经支配上臂后部的所有肌肉，包括肱三头肌。"
+      }
+    },
+    {
+      "question_number": 78,
+      "question": {
+        "en": "The main function of the epiglottis is to:",
+        "zh": "会厌的主要功能是："
+      },
+      "options": {
+        "en": [
+          "Produce sound and vocalization",
+          "Protect the airway during swallowing",
+          "Deliver oxygen to the lungs",
+          "Protect the esophagus during eating"
+        ],
+        "zh": [
+          "产生声音和发声",
+          "在吞咽时保护气道",
+          "将氧气输送到肺部",
+          "在进食时保护食道"
+        ]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The epiglottis prevents substances from entering the respiratory system during swallowing by covering the glottis.",
+        "zh": "会厌通过覆盖声门，在吞咽时防止物质进入呼吸系统。"
+      }
+    },
+    {
+      "question_number": 79,
+      "question": {
+        "en": "During a range of motion assessment, the client contracts their muscles to prevent movement due to pain and discomfort. This is referred to as a/n ____________.",
+        "zh": "在活动范围评估中，客户因疼痛和不适而收缩肌肉以阻止运动。这被称为 ____________。"
+      },
+      "options": {
+        "en": [
+          "Empty end feel",
+          "Hard end feel",
+          "Gait assessment",
+          "Active resisted movement"
+        ],
+        "zh": [
+          "空终点感觉",
+          "硬终点感觉",
+          "步态评估",
+          "主动抗阻运动"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "An empty end feel occurs when the therapist cannot determine the true range of motion due to muscle guarding.",
+        "zh": "当治疗师因肌肉防护而无法确定真实的活动范围时，就会出现空终点感觉。"
+      }
+    },
+    {
+      "question_number": 80,
+      "question": {
+        "en": "The cerebral cortex is responsible for ____________.",
+        "zh": "大脑皮层负责 ____________。"
+      },
+      "options": {
+        "en": [
+          "Consciousness",
+          "Hormone production",
+          "Regulating the heartbeat",
+          "Muscle motor functions"
+        ],
+        "zh": [
+          "意识",
+          "激素生成",
+          "调节心跳",
+          "肌肉运动功能"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The cerebral cortex plays a key role in awareness, communication, consciousness, and memory.",
+        "zh": "大脑皮层在意识、交流、记忆等方面发挥关键作用。"
+      }
+    }
+  ]
+  
