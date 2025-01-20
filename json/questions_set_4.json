@@ -1,0 +1,203 @@
+[
+    {
+      "question_number": 31,
+      "question": {
+        "en": "Where are the adrenal glands located?",
+        "zh": "肾上腺位于哪里？"
+      },
+      "options": {
+        "en": [
+          "Brain cavity of skull",
+          "Along the anterolateral portion of the neck",
+          "Superior to the kidneys",
+          "Throughout the body along circulatory tissues"
+        ],
+        "zh": [
+          "颅骨的脑腔",
+          "颈部前外侧",
+          "肾脏上方",
+          "沿循环组织分布在全身"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "The adrenal glands, known for releasing 'fight or flight' hormones in response to stressors, are located superiorly to the kidneys.",
+        "zh": "肾上腺以应对压力释放“战斗或逃跑”激素而闻名，位于肾脏上方。"
+      }
+    },
+    {
+      "question_number": 32,
+      "question": {
+        "en": "Which heart valve is the mitral valve?",
+        "zh": "哪个心脏瓣膜是二尖瓣？"
+      },
+      "options": {
+        "en": [
+          "Tricuspid",
+          "Bicuspid",
+          "Pulmonary semilunar",
+          "Aortic semilunar"
+        ],
+        "zh": [
+          "三尖瓣",
+          "二尖瓣",
+          "肺动脉半月瓣",
+          "主动脉半月瓣"
+        ]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The mitral valve is also known as the bicuspid, which controls blood flow between the opening of the left atrium into the left ventricle.",
+        "zh": "二尖瓣也被称为双尖瓣，控制血液从左心房进入左心室的流动。"
+      }
+    },
+    {
+      "question_number": 33,
+      "question": {
+        "en": "What condition is indicated by numbness and weakness in the pinky and ring fingers?",
+        "zh": "小指和无名指麻木和无力表明什么情况？"
+      },
+      "options": {
+        "en": [
+          "Carpal tunnel",
+          "Radial tunnel",
+          "Guyon's canal",
+          "Dupuytrens contracture"
+        ],
+        "zh": [
+          "腕管综合征",
+          "桡骨隧道",
+          "盖永隧道综合征",
+          "杜普伊特伦挛缩"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Guyon’s canal syndrome is a compression of the ulnar nerve between the hook of the hamate and the pisiform bones located in the palm of the hand.",
+        "zh": "盖永隧道综合征是指尺神经在掌部钩骨和豆骨之间受到压迫。"
+      }
+    },
+    {
+      "question_number": 34,
+      "question": {
+        "en": "A range of motion assessment of a joint is calculated by testing ____________.",
+        "zh": "通过测试 ____________ 来计算关节的活动范围评估。"
+      },
+      "options": {
+        "en": [
+          "Its capsular pattern",
+          "The cartilage",
+          "Inert tissue",
+          "Posture"
+        ],
+        "zh": [
+          "其关节囊模式",
+          "软骨",
+          "非活性组织",
+          "姿势"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A range of motion assessment is achieved by testing the joints capsular pattern, which will indicate any limitations by structure or function.",
+        "zh": "通过测试关节囊模式来实现活动范围评估，这将显示结构或功能的任何限制。"
+      }
+    },
+    {
+      "question_number": 35,
+      "question": {
+        "en": "_________________ are the physical and emotional space between a client and a therapist that helps maintain professionalism.",
+        "zh": "_________________ 是客户与治疗师之间帮助保持专业性的身体和情感空间。"
+      },
+      "options": {
+        "en": ["Ethics", "Boundaries", "Frameworks", "Laws"],
+        "zh": ["伦理", "界限", "框架", "法律"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Boundaries are integral to maintaining a healthy physical and emotional space within the therapeutic relationship.",
+        "zh": "界限是维持治疗关系中健康的身体和情感空间的重要组成部分。"
+      }
+    },
+    {
+      "question_number": 36,
+      "question": {
+        "en": "Which of the following is the local laws that control the physical location of an office?",
+        "zh": "以下哪项是控制办公室物理位置的地方法律？"
+      },
+      "options": {
+        "en": ["Building codes", "Licensing", "Zoning", "Business registry"],
+        "zh": ["建筑规范", "执照", "分区", "商业登记"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Zoning ordinances and regulations are local laws that govern how a property can be used.",
+        "zh": "分区条例和法规是控制物业使用方式的地方法律。"
+      }
+    },
+    {
+      "question_number": 37,
+      "question": {
+        "en": "The federal and state laws that govern the massage profession are the _______________.",
+        "zh": "管理按摩行业的联邦和州法律是 _______________。"
+      },
+      "options": {
+        "en": ["Professional boundaries", "Legal boundaries", "HIPAA regulations", "OSHA regulations"],
+        "zh": ["专业界限", "法律界限", "HIPAA 规定", "OSHA 规定"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Federal and state law form the legal boundaries of the massage profession.",
+        "zh": "联邦和州法律构成了按摩行业的法律界限。"
+      }
+    },
+    {
+      "question_number": 38,
+      "question": {
+        "en": "How many lobes are in each hemisphere of the cerebral cortex?",
+        "zh": "大脑皮层的每个半球有多少个叶？"
+      },
+      "options": {
+        "en": ["2", "3", "4", "5"],
+        "zh": ["2", "3", "4", "5"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Each hemisphere of the cerebral cortex consists of four lobes: the frontal lobe, parietal lobe, occipital lobe and temporal lobe.",
+        "zh": "大脑皮层的每个半球由四个叶组成：额叶、顶叶、枕叶和颞叶。"
+      }
+    },
+    {
+      "question_number": 39,
+      "question": {
+        "en": "What color is associated with the heart chakra?",
+        "zh": "心轮与哪种颜色相关联？"
+      },
+      "options": {
+        "en": ["Red", "Green", "Blue", "Violet"],
+        "zh": ["红色", "绿色", "蓝色", "紫色"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The heart chakra, positioned in the center of the chest, is associated with the color green or emerald green.",
+        "zh": "位于胸腔中央的心轮与绿色或祖母绿色相关联。"
+      }
+    },
+    {
+      "question_number": 40,
+      "question": {
+        "en": "What do the levator scapulae, trapezius (upper fibers), biceps brachii, subscapularis and soleus all have in common?",
+        "zh": "肩胛提肌、斜方肌（上纤维）、肱二头肌、肩胛下肌和比目鱼肌有什么共同点？"
+      },
+      "options": {
+        "en": ["Act on the shoulder", "Phasic muscles", "Postural muscles", "Fast twitch muscle"],
+        "zh": ["作用于肩部", "阶段性肌肉", "姿势肌肉", "快速收缩肌肉"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "All the muscles listed in the question are examples of postural muscles.",
+        "zh": "问题中列出的所有肌肉都是姿势肌肉的例子。"
+      }
+    }
+  ]
+  

@@ -1,0 +1,94 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+  color: #333;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+#language-toggle {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#language-toggle button {
+  margin: 0 10px;
+  padding: 15px 30px;
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+}
+
+#language-toggle button:hover {
+  background-color: #0056b3;
+}
+
+#question-selector {
+  display: block;
+  margin: 20px auto; /* 居中对齐 */
+  padding: 15px; /* 内边距更大 */
+  font-size: 22px; /* 增大字体大小 */
+  width: 80%; /* 设置宽度为屏幕的 80% */
+  max-width: 500px; /* 最大宽度限制为 500px */
+  border: 2px solid #007bff; /* 添加蓝色边框 */
+  border-radius: 8px; /* 添加圆角 */
+  background-color: #ffffff; /* 背景颜色设置为白色 */
+  color: #333; /* 字体颜色 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
+  cursor: pointer; /* 鼠标变成手型 */
+}
+
+#question-selector:hover {
+  background-color: #eef6ff; /* 悬停时背景颜色变为浅蓝 */
+  border-color: #0056b3; /* 悬停时边框颜色加深 */
+}
+
+#quiz-container {
+  margin-top: 20px;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 15px 0;
+  cursor: pointer;
+  font-size: 22px;
+}
+
+li input {
+  margin-right: 15px;
+  width: 25px;
+  height: 25px;
+}
+
+#submit-btn {
+  display: block;
+  margin: 30px auto;
+  padding: 15px 35px;
+  font-size: 24px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#submit-btn:hover {
+  background-color: #218838;
+}

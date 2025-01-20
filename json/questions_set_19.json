@@ -1,0 +1,223 @@
+[
+    {
+      "question_number": 181,
+      "question": {
+        "en": "During the objective portion of a massage intake, what information will the therapist gather from a functional assessment?",
+        "zh": "在按摩记录的客观部分，治疗师通过功能评估会收集哪些信息？"
+      },
+      "options": {
+        "en": [
+          "Muscular deviations",
+          "Restricted and painful movement patterns",
+          "Tissue texture and temperature",
+          "Cause of soft tissue injuries"
+        ],
+        "zh": [
+          "肌肉偏差",
+          "受限和疼痛的运动模式",
+          "组织纹理和温度",
+          "软组织损伤的原因"
+        ]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Functional assessments evaluate movement patterns to identify restrictions or pain.",
+        "zh": "功能评估评估运动模式以识别限制或疼痛。"
+      }
+    },
+    {
+      "question_number": 182,
+      "question": {
+        "en": "A postural assessment may be performed while a client is at rest in a supine position.",
+        "zh": "姿势评估可以在客户仰卧休息时进行。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Postural assessments can be conducted while standing or in a supine position to identify asymmetries.",
+        "zh": "姿势评估可以在站立或仰卧位时进行，以识别不对称。"
+      }
+    },
+    {
+      "question_number": 183,
+      "question": {
+        "en": "Which muscle is a prime mover for neck extension?",
+        "zh": "哪块肌肉是颈部伸展的主要驱动肌？"
+      },
+      "options": {
+        "en": [
+          "Splenius capitis",
+          "Extensor hallicus longus",
+          "Sternocleidomastoid",
+          "Rhomboids major"
+        ],
+        "zh": [
+          "头夹肌",
+          "拇长伸肌",
+          "胸锁乳突肌",
+          "大菱形肌"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The splenius capitis extends the neck and assists with lateral rotation.",
+        "zh": "头夹肌伸展颈部并协助侧向旋转。"
+      }
+    },
+    {
+      "question_number": 184,
+      "question": {
+        "en": "The structure that connects the liver to the gall bladder is the:",
+        "zh": "连接肝脏和胆囊的结构是："
+      },
+      "options": {
+        "en": [
+          "Hepatic portal vein",
+          "Hepatic duct",
+          "Bile duct",
+          "The liver is not connected to the gall bladder"
+        ],
+        "zh": [
+          "肝门静脉",
+          "肝管",
+          "胆管",
+          "肝脏未与胆囊相连"
+        ]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The hepatic duct transports bile from the liver to the gall bladder for storage.",
+        "zh": "肝管将胆汁从肝脏输送到胆囊储存。"
+      }
+    },
+    {
+      "question_number": 185,
+      "question": {
+        "en": "The protein that stores oxygen in skeletal muscle cells is:",
+        "zh": "储存在骨骼肌细胞中的储氧蛋白是："
+      },
+      "options": {
+        "en": ["Myosin", "Hemoglobin", "Myoglobin", "Troponin"],
+        "zh": ["肌球蛋白", "血红蛋白", "肌红蛋白", "肌钙蛋白"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Myoglobin stores oxygen in skeletal muscle cells, providing oxygen during muscle contraction.",
+        "zh": "肌红蛋白储存在骨骼肌细胞中，为肌肉收缩提供氧气。"
+      }
+    },
+    {
+      "question_number": 186,
+      "question": {
+        "en": "What condition would you use the Adson maneuver for?",
+        "zh": "Adson 动作用于评估哪种情况？"
+      },
+      "options": {
+        "en": [
+          "Thoracic outlet syndrome",
+          "Sciatica",
+          "Piriformis syndrome",
+          "Hip hike"
+        ],
+        "zh": [
+          "胸廓出口综合征",
+          "坐骨神经痛",
+          "梨状肌综合征",
+          "髋部抬高"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The Adson maneuver detects thoracic outlet compression by assessing the radial pulse during specific movements.",
+        "zh": "Adson 动作通过在特定动作中评估桡动脉脉搏来检测胸廓出口压迫。"
+      }
+    },
+    {
+      "question_number": 187,
+      "question": {
+        "en": "What are the ideal times to perform an assessment of the client to understand problem areas and the effectiveness of treatment?",
+        "zh": "评估客户以了解问题区域和治疗效果的理想时间是什么时候？"
+      },
+      "options": {
+        "en": [
+          "After the treatment",
+          "During the treatment",
+          "All of the above",
+          "A and B only"
+        ],
+        "zh": [
+          "治疗后",
+          "治疗期间",
+          "以上所有",
+          "仅 A 和 B"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Assessments after treatment help determine the effectiveness of the session.",
+        "zh": "治疗后的评估有助于确定治疗的有效性。"
+      }
+    },
+    {
+      "question_number": 188,
+      "question": {
+        "en": "A regular client has recently complained of pain in the arches of their feet. Which of the following healthcare providers should you refer your client to?",
+        "zh": "一位常客最近抱怨足弓疼痛。你应该将客户推荐给以下哪位医疗提供者？"
+      },
+      "options": {
+        "en": ["Physical Therapist", "Chiropractor", "Orthopedist", "Podiatrist"],
+        "zh": ["物理治疗师", "脊椎治疗师", "骨科医生", "足病医生"]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "Podiatrists specialize in disorders of the foot, ankle, and lower leg.",
+        "zh": "足病医生专门研究足部、踝关节和下肢的疾病。"
+      }
+    },
+    {
+      "question_number": 189,
+      "question": {
+        "en": "Which bone does the tibialis anterior insert into?",
+        "zh": "胫骨前肌插入哪块骨头？"
+      },
+      "options": {
+        "en": [
+          "Base of the first metacarpal",
+          "Medial cuneiform",
+          "Navicular",
+          "Calcanius"
+        ],
+        "zh": [
+          "第一掌骨基部",
+          "内侧楔骨",
+          "舟骨",
+          "跟骨"
+        ]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The tibialis anterior inserts into the medial cuneiform and first metatarsal.",
+        "zh": "胫骨前肌插入内侧楔骨和第一跖骨。"
+      }
+    },
+    {
+      "question_number": 190,
+      "question": {
+        "en": "A small, rough protuberance on a bone is called a _______________.",
+        "zh": "骨头上的一个小而粗糙的突起被称为 _______________。"
+      },
+      "options": {
+        "en": ["Tuberosity", "Condyle", "Trochanter", "Spine"],
+        "zh": ["粗隆", "髁", "转子", "脊柱"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A tuberosity is a small rough protuberance where muscles or ligaments attach.",
+        "zh": "粗隆是肌肉或韧带附着的小而粗糙的突起。"
+      }
+    }
+  ]
+  

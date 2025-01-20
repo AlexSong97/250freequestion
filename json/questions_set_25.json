@@ -1,0 +1,163 @@
+[
+    {
+      "question_number": 241,
+      "question": {
+        "en": "What does the term olfaction relate to?",
+        "zh": "术语嗅觉与什么有关？"
+      },
+      "options": {
+        "en": ["Sense of smell", "Sense of taste", "Eyesight", "Hearing"],
+        "zh": ["嗅觉", "味觉", "视力", "听觉"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Olfaction is the sense of smell, detected by olfactory sensors in the nasal cavity.",
+        "zh": "嗅觉是通过鼻腔中的嗅觉感受器检测到的气味感知。"
+      }
+    },
+    {
+      "question_number": 242,
+      "question": {
+        "en": "Neutrophils, monocytes and macrophages are all under the classification of ________________.",
+        "zh": "中性粒细胞、单核细胞和巨噬细胞都归类为 ________________。"
+      },
+      "options": {
+        "en": ["Lymphocytes", "Phagocytes", "Proteins", "Neurotransmitters"],
+        "zh": ["淋巴细胞", "吞噬细胞", "蛋白质", "神经递质"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Phagocytes are immune cells that ingest and destroy harmful substances via phagocytosis.",
+        "zh": "吞噬细胞是通过吞噬作用摄取和破坏有害物质的免疫细胞。"
+      }
+    },
+    {
+      "question_number": 243,
+      "question": {
+        "en": "Which body system does the thymus belong to?",
+        "zh": "胸腺属于哪个身体系统？"
+      },
+      "options": {
+        "en": ["Digestive", "Endocrine", "Immune", "Nervous"],
+        "zh": ["消化系统", "内分泌系统", "免疫系统", "神经系统"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "The thymus is an organ of the immune system responsible for training T-lymphocytes.",
+        "zh": "胸腺是免疫系统的器官，负责训练 T 淋巴细胞。"
+      }
+    },
+    {
+      "question_number": 244,
+      "question": {
+        "en": "Deep tissue massage is recommended to treat this condition.",
+        "zh": "深层组织按摩被推荐用于治疗这种情况。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Deep tissue massage may worsen the compression injury of Guyon’s canal syndrome.",
+        "zh": "深层组织按摩可能会加重 Guyon 管综合征的压迫性损伤。"
+      }
+    },
+    {
+      "question_number": 245,
+      "question": {
+        "en": "What do the terms systole and diastole refer to?",
+        "zh": "术语收缩期和舒张期指的是什么？"
+      },
+      "options": {
+        "en": ["Kidney process", "Breathing cycle", "Heart beat", "Immune function"],
+        "zh": ["肾脏过程", "呼吸循环", "心跳", "免疫功能"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Systole and diastole describe the contraction and relaxation phases of the heartbeat.",
+        "zh": "收缩期和舒张期描述了心跳的收缩和舒张阶段。"
+      }
+    },
+    {
+      "question_number": 246,
+      "question": {
+        "en": "Which of the following hormones regulates the development of reproductive processes within the body?",
+        "zh": "以下哪种激素调节体内生殖过程的发展？"
+      },
+      "options": {
+        "en": ["FSH", "ADH", "Insulin", "HRT"],
+        "zh": ["卵泡刺激素 (FSH)", "抗利尿激素 (ADH)", "胰岛素", "激素替代疗法 (HRT)"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "FSH, produced by the anterior pituitary gland, regulates reproductive growth and maturation.",
+        "zh": "卵泡刺激素 (FSH) 由垂体前叶分泌，调节生殖发育和成熟。"
+      }
+    },
+    {
+      "question_number": 247,
+      "question": {
+        "en": "What is the most likely cause of this condition?",
+        "zh": "这种情况最可能的原因是什么？"
+      },
+      "options": {
+        "en": ["His work in IT", "Cycling", "Disc golf", "None of the above"],
+        "zh": ["他的 IT 工作", "骑自行车", "飞盘高尔夫", "以上都不是"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Cycling posture, which puts pressure on the palms, leads to Guyon’s canal syndrome.",
+        "zh": "骑自行车的姿势对手掌施加压力，导致 Guyon 管综合征。"
+      }
+    },
+    {
+      "question_number": 248,
+      "question": {
+        "en": "Albumins, globulins and fibrinogens are the 3 major classes of _______________.",
+        "zh": "白蛋白、球蛋白和纤维蛋白原是 _______________ 的三大类。"
+      },
+      "options": {
+        "en": ["Neuropeptides", "Chromosomes", "Plasma proteins", "Lymphocytes"],
+        "zh": ["神经肽", "染色体", "血浆蛋白", "淋巴细胞"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Albumins, globulins, and fibrinogens are plasma proteins with various transport and immune functions.",
+        "zh": "白蛋白、球蛋白和纤维蛋白原是具有多种运输和免疫功能的血浆蛋白。"
+      }
+    },
+    {
+      "question_number": 249,
+      "question": {
+        "en": "Choose the medical term given to name the collection of heart muscle cells that regulate the heart beat.",
+        "zh": "选择用于命名调节心跳的心肌细胞集合的医学术语。"
+      },
+      "options": {
+        "en": ["Arterioles", "Bradycardia", "Bundle of His", "Coronary sinus"],
+        "zh": ["小动脉", "心动过缓", "希氏束", "冠状窦"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "The Bundle of His regulates the heart beat and was discovered by Wilhelm His in 1893.",
+        "zh": "希氏束调节心跳，由威廉·希斯于 1893 年发现。"
+      }
+    },
+    {
+      "question_number": 250,
+      "question": {
+        "en": "Which of the following hormones is responsible for the regulation of metabolism?",
+        "zh": "以下哪种激素负责调节代谢？"
+      },
+      "options": {
+        "en": ["Thyroxine", "FSH", "Progesterone", "Adrenaline"],
+        "zh": ["甲状腺素", "卵泡刺激素 (FSH)", "孕激素", "肾上腺素"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Thyroxine, produced by the thyroid gland, regulates metabolic processes in the body.",
+        "zh": "甲状腺素由甲状腺分泌，调节体内的代谢过程。"
+      }
+    }
+  ]
+  

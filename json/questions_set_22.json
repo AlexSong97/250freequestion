@@ -1,0 +1,213 @@
+[
+    {
+      "question_number": 211,
+      "question": {
+        "en": "Which part of a cell is responsible for breaking down glucose molecules to release energy?",
+        "zh": "细胞的哪个部分负责分解葡萄糖分子以释放能量？"
+      },
+      "options": {
+        "en": ["Ribosomes", "Centrioles", "Nucleus", "Mitochondria"],
+        "zh": ["核糖体", "中心体", "细胞核", "线粒体"]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "The mitochondria within a cell handles the task of breaking down glucose molecules to release energy.",
+        "zh": "细胞中的线粒体负责分解葡萄糖分子以释放能量。"
+      }
+    },
+    {
+      "question_number": 212,
+      "question": {
+        "en": "Which chemical or element would be found in blood serum?",
+        "zh": "在血清中可以发现哪种化学物质或元素？"
+      },
+      "options": {
+        "en": ["Fibrinogen", "White blood cells", "Electrolytes", "Red blood cells"],
+        "zh": ["纤维蛋白原", "白细胞", "电解质", "红细胞"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Serum contains antibodies, antigens, electrolytes, hormones, and exogenous substances.",
+        "zh": "血清含有抗体、抗原、电解质、激素和外源物质。"
+      }
+    },
+    {
+      "question_number": 213,
+      "question": {
+        "en": "Which of the following best describes antigens?",
+        "zh": "以下哪项最好描述抗原？"
+      },
+      "options": {
+        "en": [
+          "A substance that stimulates an immune response",
+          "A substance that suppresses an immune response",
+          "A substance that assists digestion",
+          "A substance that causes muscle to fire"
+        ],
+        "zh": [
+          "刺激免疫反应的物质",
+          "抑制免疫反应的物质",
+          "帮助消化的物质",
+          "引起肌肉收缩的物质"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "An antigen is a substance that triggers an immune response.",
+        "zh": "抗原是一种触发免疫反应的物质。"
+      }
+    },
+    {
+      "question_number": 214,
+      "question": {
+        "en": "The suffix -plegia refers to:",
+        "zh": "后缀 -plegia 指的是："
+      },
+      "options": {
+        "en": ["Light", "Paralysis", "Formation", "Different parts"],
+        "zh": ["光", "瘫痪", "形成", "不同部位"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The suffix -plegia refers to paralysis, as in hemiplegia (paralysis on one side of the body).",
+        "zh": "后缀 -plegia 指瘫痪，例如半身不遂 (身体一侧瘫痪)。"
+      }
+    },
+    {
+      "question_number": 215,
+      "question": {
+        "en": "What does a sulcus refer to?",
+        "zh": "sulcus 指的是什么？"
+      },
+      "options": {
+        "en": [
+          "A passage or canal",
+          "The meeting point where bones are joined together",
+          "A narrow groove",
+          "A knob-like process"
+        ],
+        "zh": [
+          "通道或管道",
+          "骨头连接点",
+          "狭窄的槽",
+          "球状突起"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "A sulcus is a narrow groove found in various places on the body.",
+        "zh": "sulcus 是一种狭窄的槽，可在身体的不同部位找到。"
+      }
+    },
+    {
+      "question_number": 216,
+      "question": {
+        "en": "What does the Arndt-Schultz Law pertain to?",
+        "zh": "Arndt-Schultz 法则与什么有关？"
+      },
+      "options": {
+        "en": [
+          "Acute and chronic injuries",
+          "Dry and moist skin types",
+          "Flexibility and tension patterns",
+          "Pressure-related physiological processes"
+        ],
+        "zh": [
+          "急性和慢性损伤",
+          "干性和湿性皮肤类型",
+          "柔韧性和张力模式",
+          "与压力相关的生理过程"
+        ]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "The Arndt-Schultz Law states that weak stimuli promote physiological processes while strong stimuli inhibit them.",
+        "zh": "Arndt-Schultz 法则指出，弱刺激促进生理过程，而强刺激抑制它们。"
+      }
+    },
+    {
+      "question_number": 217,
+      "question": {
+        "en": "Which of the following best describes a reflex arc?",
+        "zh": "以下哪项最好描述反射弧？"
+      },
+      "options": {
+        "en": [
+          "Emotional response",
+          "Massage technique",
+          "Neural pathway",
+          "Gait assessment"
+        ],
+        "zh": [
+          "情绪反应",
+          "按摩技巧",
+          "神经通路",
+          "步态评估"
+        ]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "A reflex arc is a neural pathway triggering a response without involving the brain.",
+        "zh": "反射弧是一种神经通路，触发反应而无需涉及大脑。"
+      }
+    },
+    {
+      "question_number": 218,
+      "question": {
+        "en": "How many joints are part of the shoulder girdle?",
+        "zh": "肩带包含多少个关节？"
+      },
+      "options": {
+        "en": ["1", "2", "3", "4"],
+        "zh": ["1", "2", "3", "4"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "The shoulder girdle consists of three joints: sternoclavicular, acromioclavicular, and glenohumeral joints.",
+        "zh": "肩带由三个关节组成：胸锁关节、肩锁关节和肩关节。"
+      }
+    },
+    {
+      "question_number": 219,
+      "question": {
+        "en": "Choose the correct definition of the anatomical term “condyle”.",
+        "zh": "选择解剖术语“髁”的正确定义。"
+      },
+      "options": {
+        "en": [
+          "A shallow cavity or slight depression",
+          "The superior region of a long bone",
+          "A projection or protuberance",
+          "A rounded articular process"
+        ],
+        "zh": [
+          "浅腔或轻微凹陷",
+          "长骨的上部区域",
+          "突出或隆起",
+          "圆形关节突起"
+        ]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "A condyle is a rounded articular process, such as the condyles of the femur.",
+        "zh": "髁是圆形的关节突起，例如股骨的髁。"
+      }
+    },
+    {
+      "question_number": 220,
+      "question": {
+        "en": "Metabolic effects of massage therapy upon the body are a combination of reflexive and mechanical effects.",
+        "zh": "按摩疗法对身体的代谢效应是反射效应和机械效应的结合。"
+      },
+      "options": {
+        "en": ["TRUE", "FALSE"],
+        "zh": ["正确", "错误"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Massage therapy influences metabolism through both reflexive and mechanical means.",
+        "zh": "按摩疗法通过反射和机械两种方式影响代谢。"
+      }
+    }
+  ]
+  

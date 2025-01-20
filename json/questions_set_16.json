@@ -1,0 +1,193 @@
+[
+    {
+      "question_number": 151,
+      "question": {
+        "en": "In which region of the lung does the gaseous exchange occur?",
+        "zh": "肺的哪个区域进行气体交换？"
+      },
+      "options": {
+        "en": ["Alveoli", "Atrium", "Bronchii", "Trachea"],
+        "zh": ["肺泡", "心房", "支气管", "气管"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The alveoli are hollow cavities in the lungs where gaseous exchange occurs.",
+        "zh": "肺泡是肺中的空腔结构，气体交换在这里发生。"
+      }
+    },
+    {
+      "question_number": 152,
+      "question": {
+        "en": "Which of the following procedures is an exfoliating treatment?",
+        "zh": "以下哪种程序是去角质治疗？"
+      },
+      "options": {
+        "en": ["Salt glow", "Aromatherapy bath", "Herbal wrap", "Steam bath"],
+        "zh": ["盐磨砂", "芳香浴", "草本裹敷", "蒸汽浴"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Salt glow involves rubbing sea salts on the body to exfoliate the skin.",
+        "zh": "盐磨砂通过将海盐涂抹在身体上进行摩擦来去除皮肤角质。"
+      }
+    },
+    {
+      "question_number": 153,
+      "question": {
+        "en": "What has occurred if a massage therapist continues treating a client with needs beyond their expertise?",
+        "zh": "如果按摩治疗师继续治疗需求超出其专业范围的客户，这表明发生了什么？"
+      },
+      "options": {
+        "en": [
+          "The massage therapist is operating outside the scope of practice.",
+          "A needy client has become unreasonably demanding.",
+          "A power differential.",
+          "A dual relationship has been created."
+        ],
+        "zh": [
+          "按摩治疗师超出了执业范围。",
+          "需要帮助的客户变得不合理地苛求。",
+          "权力差异。",
+          "形成了双重关系。"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Continuing to treat a client with needs beyond the therapist's expertise is operating outside the scope of practice.",
+        "zh": "继续治疗需求超出治疗师专业范围的客户属于超出执业范围。"
+      }
+    },
+    {
+      "question_number": 154,
+      "question": {
+        "en": "Which neurotransmitter is used by the motor division of the somatic nervous system?",
+        "zh": "躯体神经系统运动部分使用哪种神经递质？"
+      },
+      "options": {
+        "en": ["Acetylcholine", "Dopamine", "Serotonin", "Glutamate"],
+        "zh": ["乙酰胆碱", "多巴胺", "血清素", "谷氨酸盐"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Acetylcholine transmits signals at the neuromuscular junction.",
+        "zh": "乙酰胆碱在神经肌肉接头处传递信号。"
+      }
+    },
+    {
+      "question_number": 155,
+      "question": {
+        "en": "Apley’s scratch test is used to determine the range of motion of the _______________.",
+        "zh": "Apley 刮擦测试用于确定 _______________ 的活动范围。"
+      },
+      "options": {
+        "en": ["Wrist", "Shoulder", "Neck", "Hips"],
+        "zh": ["手腕", "肩膀", "颈部", "臀部"]
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The test assesses the range of motion in both shoulders by having the client reach behind their back.",
+        "zh": "该测试通过让客户双手在背后触碰来评估肩部的活动范围。"
+      }
+    },
+    {
+      "question_number": 156,
+      "question": {
+        "en": "A trigger point that only produces pain while palpated is _______________.",
+        "zh": "仅在触诊时产生疼痛的触发点是 _______________。"
+      },
+      "options": {
+        "en": [
+          "Active trigger point",
+          "Primary trigger point",
+          "Secondary trigger point",
+          "Latent trigger point"
+        ],
+        "zh": [
+          "活动触发点",
+          "原发触发点",
+          "继发触发点",
+          "潜在触发点"
+        ]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "A latent trigger point produces pain only during palpation.",
+        "zh": "潜在触发点仅在触诊时产生疼痛。"
+      }
+    },
+    {
+      "question_number": 157,
+      "question": {
+        "en": "Which of the following determines the necessary certifications and educational requirements for licensure?",
+        "zh": "以下哪项决定执照所需的认证和教育要求？"
+      },
+      "options": {
+        "en": [
+          "State regulations",
+          "AMTA guidelines",
+          "HIPAA regulations",
+          "Federal agency"
+        ],
+        "zh": [
+          "州法规",
+          "AMTA 指南",
+          "HIPAA 规定",
+          "联邦机构"
+        ]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "State massage boards determine the minimum requirements for licensure.",
+        "zh": "州按摩委员会决定执照的最低要求。"
+      }
+    },
+    {
+      "question_number": 158,
+      "question": {
+        "en": "If you are self-employed as a sole proprietor or independent contractor, which of the following forms must you file for business income and expenses with the IRS?",
+        "zh": "如果您是独资经营者或独立承包商，必须提交哪种表格向 IRS 报告业务收入和费用？"
+      },
+      "options": {
+        "en": ["Schedule A", "Schedule B", "Schedule C", "Schedule D"],
+        "zh": ["附表 A", "附表 B", "附表 C", "附表 D"]
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Schedule C is used to calculate net profit or loss for sole proprietors or independent contractors.",
+        "zh": "附表 C 用于计算独资经营者或独立承包商的净利润或亏损。"
+      }
+    },
+    {
+      "question_number": 159,
+      "question": {
+        "en": "Uncommonly dry weather is an example of a(n)____________ factor for ligament injuries.",
+        "zh": "异常干燥的天气是韧带损伤的 ____________ 因素的一个例子。"
+      },
+      "options": {
+        "en": ["Geographical", "Medical", "Intrinsic", "Extrinsic"],
+        "zh": ["地理因素", "医学因素", "内在因素", "外在因素"]
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "en": "Dry weather is an extrinsic factor that can affect non-contact ligament injuries.",
+        "zh": "干燥的天气是影响非接触性韧带损伤的外在因素。"
+      }
+    },
+    {
+      "question_number": 160,
+      "question": {
+        "en": "The brachial artery is a branch from which larger artery?",
+        "zh": "肱动脉是以下哪条大动脉的分支？"
+      },
+      "options": {
+        "en": ["Axillary", "Femoral", "Carotid", "Descending aorta"],
+        "zh": ["腋动脉", "股动脉", "颈动脉", "降主动脉"]
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The brachial artery is a continuation of the axillary artery.",
+        "zh": "肱动脉是腋动脉的延续。"
+      }
+    }
+  ]
+  
